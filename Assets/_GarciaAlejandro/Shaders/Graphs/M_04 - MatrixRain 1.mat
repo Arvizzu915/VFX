@@ -64,13 +64,13 @@ Material:
     m_Floats:
     - _GlowFloat: 15
     - _MovementSpeed: 0.7
-    - _NoiseIntensity: 0.77
-    - _NoiseScale: 11.7
+    - _NoiseIntensity: 0.771
+    - _NoiseScale: 4.58
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Range: 0.213
+    - _Range: 0.096
     - _SmoothFade: 0
-    - _Transition: 0.502
+    - _Transition: 0
     m_Colors:
     - _GlowColor: {r: 0.19999996, g: 1, b: 0, a: 1}
     - _MovementDirection: {r: 0, g: 1, b: 0, a: 0}
